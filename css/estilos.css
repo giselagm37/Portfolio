@@ -114,6 +114,7 @@ main img{
     height: 100vh;
     background-color: rgb(47, 5, 87);
     color: whitesmoke;
+    padding: 3%;
 }
 .portfolio-cabecera,.contacto-cabecera{
     width: 100vw;
@@ -122,9 +123,8 @@ main img{
     justify-content: center;
 
 }
-.portfolio-cabecera h2{
-    font-size: 2.5em;
-    margin: 5%;
+.portfolio-cabecera h2, .contacto-cabecera h2{
+    font-size: 3em;
 }
 .container{
     width: 80vw;
@@ -189,11 +189,8 @@ main img{
     height: 100vh;
     background-color: rgb(47, 5, 87);
     color: whitesmoke;
+    padding: 3%;
 }
-.contacto-cabecera h2{
-    font-size: 3em;
-}
-
 .contacto-container{
     padding: 3em;
     margin: 0 auto;
